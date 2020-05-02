@@ -1,2 +1,4 @@
 # hello-world
-Un buen comienzo
+Un buen comienzo.
+
+Para eso, hay que preparase fuerte
